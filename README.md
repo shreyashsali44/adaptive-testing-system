@@ -278,4 +278,4 @@ MIT License
 
 ## 👤 Author
 
-[Your Name] — AI & Agentic Intelligence Internship Assessment"# adaptive-testing-system" 
+Shreyash Sali — AI & Agentic Intelligence Internship Assessment"# adaptive-testing-system" 
